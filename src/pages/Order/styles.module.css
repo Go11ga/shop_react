@@ -1,0 +1,24 @@
+.theme__light {
+    background-color: #fff;
+    color: #000;
+}
+
+.theme__dark {
+    background-color: #747576;
+    color: #fff;
+}
+
+.input__light {
+    margin: 0 10px;
+    width: 50px;
+}
+
+.input__dark {
+    margin: 0 10px;
+    width: 50px;
+
+    background-color: #747576;
+    color: #fff;
+
+    border: 0;
+}

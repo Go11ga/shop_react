@@ -1,0 +1,21 @@
+.main__light {
+    background-color: #f7f7f7;
+    color: #000;
+}
+
+.main__dark {
+    background-color: #383636;
+    color: #fff;
+}
+
+.header__border-light {
+    border-bottom: 2px solid #018401;
+}
+
+.header__border-dark {
+    border-bottom: 2px solid #e8a447;
+}
+
+.header__box {
+    height: 80px;
+}
